@@ -1,0 +1,5 @@
+{
+  "mongoURL": "mongodb+srv://emirhanatc31224:emirhanac20053@cluster0.usito.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "clientID": "830389643030954005",
+  "callbackURL": "https://dark-team-site.glitch.me/callback"
+}
